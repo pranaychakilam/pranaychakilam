@@ -4,6 +4,9 @@
 
 I am passionate about data science. It has always seemed like a superpower to me to use machine learning algorithms to solve a problem and acquire insight. I'm here to find solutions while also learning a lot.
 
+- 🌱 I’m currently learning NLP.
+- 📫 Reach me out: pranaychakilam999@gmail.com | https://www.linkedin.com/in/pranay-chakilam/
+
 <!--
 **pranaychakilam/pranaychakilam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
